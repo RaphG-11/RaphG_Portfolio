@@ -21,9 +21,10 @@ AI/Machine Learning Intern @ National Centre for Artificial Intelligence and Rob
   
 ## My Projects
 
-Here’s one of my recent works:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGwPOkBhgd_ONSDD9nHR4rT41cuzflXY?usp=drive_link)
+
+[![View Project](https://img.shields.io/badge/View-Project-blue)](assets/my_project_file.ipynb)
+
 
 
 
