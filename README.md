@@ -34,7 +34,7 @@ A smart parking lot management system built as a web app. It uses camera-based o
 An interactive Excel dashboard designed to track key 4G LTE network KPIs across multiple regions. It visualizes performance trends, highlights degradations, and supports quick comparison of regional metrics for better network optimization and decision-making.
 
 ![Parking Lot Web App Preview](Excel dashboard.JPG)
-[![View Project](https://img.shields.io/badge/View-Project-blue)](Senior_Design_Project_Parking_Lot_System.ipynb)
+[![View Project](https://img.shields.io/badge/View-Project-blue)](4G_Regional_KPI_Dataset_June.xlsx)
 
 
 
