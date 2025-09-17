@@ -1,5 +1,5 @@
 # Graduate Engineer
-#### Technical Skills: Python (Machine learning & Computer Vision), Microsoft Excel, SQL, PowerBI, Power Automate 
+#### Technical Skills: Python (Machine learning & Computer Vision), Microsoft Excel, SQL, PowerBI, Power Automate, Microsoft Azure (Agentic AI Development), Process Mapping 
 
 ### Education
 B.Eng., Electrical & Electronics Engineering | Nile University of Nigeria (2020-2025)
@@ -28,6 +28,14 @@ A smart parking lot management system built as a web app. It uses camera-based o
 ![Parking Lot Web App Preview](Model_Predict.jpg)
 
 [![View Project](https://img.shields.io/badge/View-Project-blue)](Senior_Design_Project_Parking_Lot_System.ipynb)
+
+### 4G LTE KPI Dashboard  
+
+An interactive Excel dashboard designed to track key 4G LTE network KPIs across multiple regions. It visualizes performance trends, highlights degradations, and supports quick comparison of regional metrics for better network optimization and decision-making.
+
+![Parking Lot Web App Preview](Model_Predict.jpg)
+
+
 
 
 
