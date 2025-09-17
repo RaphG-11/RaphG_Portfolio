@@ -23,7 +23,7 @@ AI/Machine Learning Intern @ National Centre for Artificial Intelligence and Rob
 
 
 
-[![View Project](https://img.shields.io/badge/View-Project-blue)](assets/my_project_file.ipynb)
+[![View Project](https://img.shields.io/badge/View-Project-blue)](Senior_Design_Project_Parking_Lot_System.ipynb)
 
 
 
