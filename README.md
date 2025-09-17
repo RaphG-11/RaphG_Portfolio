@@ -24,9 +24,7 @@ AI/Machine Learning Intern @ National Centre for Artificial Intelligence and Rob
 
 A smart parking lot management system built as a web app. It uses camera-based object detection to periodically count the number of cars in an unmarked parking lot and subtracts this from the total capacity to estimate available spaces. The web app displays the number of free slots in a clean and simple interface, giving drivers real-time visibility into parking availability.  
 
-![Parking Lot Web App Preview](assets/parking_preview.png)
-
-
+![Parking Lot Web App Preview](WhatsApp Image 2025-05-12 at 12.34.57 (1).jpeg)
 
 [![View Project](https://img.shields.io/badge/View-Project-blue)](Senior_Design_Project_Parking_Lot_System.ipynb)
 
