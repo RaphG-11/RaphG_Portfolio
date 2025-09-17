@@ -20,6 +20,11 @@ AI/Machine Learning Intern @ National Centre for Artificial Intelligence and Rob
 - End to end machine learning development using python and frameworks such as: Pandas, Numpy, Matplotlib, and SckitLearn
   
 ## My Projects
+## Smart Parking Lot Management System with Object Detection and Web-Interface
+
+A smart parking lot management system built as a web app. It uses camera-based object detection to periodically count the number of cars in an unmarked parking lot and subtracts this from the total capacity to estimate available spaces. The web app displays the number of free slots in a clean and simple interface, giving drivers real-time visibility into parking availability.  
+
+![Parking Lot Web App Preview](assets/parking_preview.png)
 
 
 
